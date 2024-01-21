@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\bin\Debug\net8.0\Week2App1.exe
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\bin\Debug\net8.0\Week2App1.deps.json
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\bin\Debug\net8.0\Week2App1.runtimeconfig.json
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\bin\Debug\net8.0\Week2App1.dll
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\bin\Debug\net8.0\Week2App1.pdb
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.AssemblyInfo.cs
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.dll
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\refint\Week2App1.dll
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.pdb
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\Week2App1.genruntimeconfig.cache
+C:\Users\hp\Desktop\PB501Project\Week2App1\Week2App1\obj\Debug\net8.0\ref\Week2App1.dll
